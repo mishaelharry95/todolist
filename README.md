@@ -2,14 +2,15 @@ To-Do List API
 This is a RESTful API for managing a simple To-Do List application. It provides endpoints for creating, retrieving, updating, and deleting to-do items. The API is built with Spring Boot and uses an H2 in-memory database.
 
 Features
-Create a new to-do item.
-Retrieve all to-do items.
-Update an existing to-do item.
-Delete a to-do item.
+1. Create a new to-do item.
+2. Retrieve all to-do items.
+3. Update an existing to-do item.
+4. Delete a to-do item.
+
 Prerequisites
 Before you begin, ensure you have the following installed:
 
-Java JDK 11 or higher
+Java JDK 17 or higher
 Maven (optional if using an IDE like IntelliJ IDEA or Eclipse)
 Postman or cURL (to test the API, optional)
 Setup and Run
